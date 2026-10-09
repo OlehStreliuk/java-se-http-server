@@ -25,3 +25,10 @@ Multithreading basics for handling multiple requests
 JDBC fundamentals for database connectivity
 
 Debugging and testing workflow
+
+Technologies
+Java SE · OOP · Sockets · HTTP Protocol · Backend Architecture · Multithreading · JDBC · Maven · JUnit · Mockito · Debugging & Testing
+
+Certification
+Проект выполнен в рамках курса Udemy:
+Certificate Link
